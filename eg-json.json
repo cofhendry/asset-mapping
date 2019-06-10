@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.414479, 33.763094],
+      },
+      "properties": {
+        "marker": "heart",
+        "name": "Community Health Workers",
+        "address": "810 Joseph E. Lowery Blvd. NW, Atlanta, GA 30314",
+        "phone": "(404) 263-9213",
+        "target": "Westside residents",
+        "cost of services": "Free",
+        "services": "Health coaching, health education services, chronic disease management"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.410628, 33.759947]
+      },
+      "properties": {
+        "marker": "heart",
+        "name": "Neighborhood Union Health Center",
+        "url": "www.healingcommunitycenter.org",
+        "address": "186 Sunset Ave. NW, Atlanta, GA 30314",
+        "phone": "(404) 612-4665",
+        "target": "Westside residents, metro-Atlanta area residents",
+        "cost of services": "Sliding scale",
+        "services": "Primary care, dental care, vision care, women's health, mental health services, substance abuse services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.420637, 33.773457]
+      },
+      "properties": {
+        "marker": "heart",
+        "name": "Good Samaritan Health Center",
+        "url": "www.goodsamaatlanta.org",
+        "address": "1015 Donald L. Hollowell Pkwy. NW, Atlanta, GA 30318",
+        "phone": "(404) 523-6571",
+        "target": "Westside residents, metro-Atlanta area residents",
+        "cost of services": "Sliding scale",
+        "services": "Primary care, oral care, health education services, mental heath services"
+      }
+    },
+  ]
+}
