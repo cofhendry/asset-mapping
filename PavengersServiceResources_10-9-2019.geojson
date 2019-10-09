@@ -1,0 +1,242 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.411969, 33.760804]
+      },
+      "properties": {
+        "name": "Hollis Innovation Academy",
+        "services": "Food pantry open to all families and residents, Third Wednesday of the month from 2-4:00pm",
+        "address": "225 James P. Brawley Blvd. NW",
+        "phone": "404-802-8217",
+        "website": "www.atlantapublicschools.us/hollisinnovation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.406623, 33.759148]
+      },
+      "properties": {
+        "name": "Greater Vine City Baptist Church",
+        "services": "Food pantry each week on Tuesday and Thursday, 10-1:30pm",
+        "address": "166 Walnut St. NW",
+        "phone": "404-523-2095",
+        "website": "www.gvbc.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.413269, 33.763061]
+      },
+      "properties": {
+        "name": "Simpson St. Baptist Church",
+        "services": "",
+        "address": "800 Joseph E. Boone Blvd. NW",
+        "phone": "404-688-4756",
+        "website": "www.simpsonstreetchurchofchrist.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.403834, 33.754131]
+      },
+      "properties": {
+        "name": "Central United Methodist Church",
+        "services": "Last Wednesday of the month; 1-2:45pm",
+        "address": "501 Mitchell St. SW",
+        "phone": "404-524-4263",
+        "website": "www.centralumcatl.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.40795, 33.759151]
+      },
+      "properties": {
+        "name": "Cosmopolitan AME Church",
+        "services": "The second and fourth Tuesday of each month, 8:30-12pm",
+        "address": "170 Vine St. NW",
+        "phone": "404-688-8959"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.417155, 33.74936]
+      },
+      "properties": {
+        "name": "Mt. Moriah Baptist Church",
+        "services": "Third Wednesday of each month",
+        "address": "200 Joseph E. Lowery Blvd. SW",
+        "phone": "404-753-6172",
+        "website": "www.mountmoriahatl.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.417718, 33.753848]
+      },
+      "properties": {
+        "name": "Warren Memorial United Methodist Church",
+        "services": "The second and fourth Thursday of each week, 12-2pm",
+        "address": "181 Joseph E. Lowery Blvd. SW",
+        "phone": "404-755-8931",
+        "website": "www.warrenmemorial.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.451057, 33.777715]
+      },
+      "properties": {
+        "name": "Fountain of Hope Food Bank",
+        "services": "Pantry services are Tuessday through Friday from 10-1pm and 2-3pm",
+        "address": "829 Hollywood Rd. NW",
+        "phone": "404-794-4131",
+        "website": "www.fohfoodbank.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.421136, 33.73007]
+      },
+      "properties": {
+        "name": "Hosea Helps Crises and Care Center",
+        "services": "Open four days a week, 25 families per day with services including food, financial counseling, clothing, and toiletry distribution",
+        "address": "1035 Donnelly Ave. SW",
+        "phone": "404-755-3868",
+        "website": "www.4hosea.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.387096, 33.764521]
+      },
+      "properties": {
+        "name": "Midtown Assistance Center",
+        "services": "Will serve families in the 30314 zip code. Clients must be pre-screened over the phone, and if you qualify for an appointment, you must present identification",
+        "address": "30 Porter Place NE",
+        "phone": "404-681-5777",
+        "website": "www.midtownassistancectr.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.460725, 33.777255]
+      },
+      "properties": {
+        "name": "Atlanta Police Department Zone 1",
+        "services": "Law enforcement agency serving neighborhoods in Zone 1 including English Avenue and Vine City",
+        "address": "2315 Donald Lee Hollowell Pkwy. NW",
+        "phone": "404-799-2487",
+        "website": "www.atlantapd.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.407587, 33.757862]
+      },
+      "properties": {
+        "name": "Atlanta Police Department Magnolia Street Precinct",
+        "services": "Law enforcement agency serving residents in Zone 1 including English Avenue and Vine City",
+        "address": "612 Magnolia St. NW",
+        "phone": "404-546-7000",
+        "website": "www.atlantapd.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.483434, 33.782025]
+      },
+      "properties": {
+        "name": "Atlanta Fire Rescue Station 38",
+        "services": "Emergency medical response, fire prevention and education services",
+        "address": "2911 Donald Lee Hollowell Pkwy. NW",
+        "phone": "404-546-7000",
+        "website": "www.atlantafirerescue.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.421925, 33.75311]
+      },
+      "properties": {
+        "name": "Atlanta Fire Rescue Station 16",
+        "services": "Emergency medical response, fire prevention, and education services",
+        "address": "1048 Joseph E. Boone Blvd. NW",
+        "phone": "404-546-4416",
+        "website": "www.atlantafirerescue.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.43638, 33.742479]
+      },
+      "properties": {
+        "name": "Atlanta Fire Rescue Station 17",
+        "services": "Emergency medical response, fire prevention, and education services",
+        "address": "1489 Ralph D. Abernathy Blvd. SW",
+        "phone": "404-546-7000",
+        "website": "www.atlantafirerescue.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.416273, 33.761975]
+      },
+      "properties": {
+        "name": "Quest Community Development Organization",
+        "services": "Short-term (90-day) housing program for men and women, mid- (180 days) and long term housing for chronically homeless adult men.",
+        "address": "878 Rock St. NW",
+        "phone": "678-705-5318",
+        "website": "www.questcommunities.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.411606, 33.767766]
+      },
+      "properties": {
+        "name": "CHRIS180 at At-Promise Center",
+        "services": "Supportive housing services offered to youth under the age of 24 and their families",
+        "address": "740 Cameron M. Alexander Blvd. NW",
+        "phone": "470-346-2693",
+        "website": "www.atlantapolicefoundation.org"
+      }
+    }
+  ]
+}

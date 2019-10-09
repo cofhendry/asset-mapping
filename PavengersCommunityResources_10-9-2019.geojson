@@ -1,0 +1,292 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.411969, 33.760804]
+      },
+      "properties": {
+        "name": "Kennedy Park",
+        "services": "Greenspace and playground on the Westside of Atlanta",
+        "address": "225 James P. Brawley Blvd. NW",
+        "website": "https://apm.activecommunities.com/atlantadprca/Home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.4068, 33.7587]
+      },
+      "properties": {
+        "name": "Vine City Park",
+        "services": "Greenspace and playground on the Westside of Atlanta",
+        "address": "Intersection of Magnolia and Walnut St.",
+        "website": "https://apm.activecommunities.com/atlantadprca/Home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.416098, 33.76483]
+      },
+      "properties": {
+        "name": "Kathryn Johnston Memorial Park",
+        "services": "Park and greenspace located on the Westside of Atlanta",
+        "address": "870 Proctor St. NW",
+        "website": "https://apm.activecommunities.com/atlantadprca/Home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.415341, 33.769849]
+      },
+      "properties": {
+        "name": "Lindsay Street Park",
+        "services": "Greenspace and playground on the Westside of Atlanta",
+        "address": "870 Proctor St. NW",
+        "website": "https://apm.activecommunities.com/atlantadprca/Home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.399626, 33.760505]
+      },
+      "properties": {
+        "name": "The Home Depot Backyard",
+        "services": "Greenspace and event space offering programming for families on the Westside of Atlanta",
+        "prices": "prices vary by event",
+        "address": "551 Oliver St. NW",
+        "website": "www.homedepotbackyard.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.4258, 33.75668]
+      },
+      "properties": {
+        "name": "The Atlanta Beltline - Westside Trail",
+        "services": "Greenspace and walking trail connected to the 22-mile multi-use trail",
+        "address": "Entrance near Washington Park and Lena St.",
+        "website": "www.beltline.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.4066765, 33.755965]
+      },
+      "properties": {
+        "name": "Herndon Home Museum",
+        "services": "Museum and cultural arts center",
+        "prices": "youth under 17 are $5, adults are $10",
+        "address": "587 University Pl. NW",
+        "phone": "404-581-9813",
+        "website": "www.herndonhome.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.420881, 33.741248]
+      },
+      "properties": {
+        "name": "Hammond House Museum",
+        "services": "Museum for African American fine art",
+        "prices": "admission is free for youth 12 and under, prices for students are $5; adults are $7",
+        "address": "503 Peeples St. SW",
+        "phone": "404-613-0481",
+        "website": "www.hammondshouse.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.422173, 33.737712]
+      },
+      "properties": {
+        "name": "The Wren's Nest",
+        "services": "Cultural center celebrating the art of storytelling and Atlanta history",
+        "address": "1050 Ralph D. Abernathy Blvd.",
+        "phone": "404-753-7735",
+        "website": "www.wrensnest.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.411462, 33.745247]
+      },
+      "properties": {
+        "name": "Spelman College Museum",
+        "services": "Art museum and cultural arts center located in NW Atlanta",
+        "price": "suggested donation of $3",
+        "address": "350 Spelman Ln. SW",
+        "phone": "404-270-5607",
+        "website": "museum.spelman.edu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.408654, 33.771702]
+      },
+      "properties": {
+        "name": "Trap Museum",
+        "services": "Cultural experiential museum located in NW Atlanta; children under 18 are allowed before 5pm with adult supervision",
+        "prices": "price of admission is $10",
+        "address": "630 Travis St. NW",
+        "url": "info@trapmusicmuseum.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.418684, 33.738527]
+      },
+      "properties": {
+        "name": "Fulton County West End Performing Arts Center",
+        "services": "Performing arts center and event space",
+        "prices": "prices vary by activity, date, and time",
+        "address": "943 Ralph D. Abernathy NW",
+        "phone": "404-613-6465",
+        "website": "www.fultonarts.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.412744, 33.781405]
+      },
+      "properties": {
+        "name": "Westside Cultural Arts Center",
+        "services": "Cultural arts center and event space located in NW Atlanta",
+        "prices": "donations suggested",
+        "address": "760 10th St. NW",
+        "phone": "404-594-6412",
+        "website": "www.westsideartscenter.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.420368, 33.737879]
+      },
+      "properties": {
+        "name": "Gallery 992",
+        "services": "Museum and cultural arts center, music education program for youth",
+        "prices": "donations suggested",
+        "address": "992 Ralph D. Abernathy Blvd. NW",
+        "phone": "240-651-9375",
+        "website": "www.musicinthepark.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.396573, 33.757106]
+      },
+      "properties": {
+        "name": "ZuCot Gallery",
+        "services": "Art gallery and event space located in NW Atlanta",
+        "prices": "prices vary by activity, date, and time",
+        "address": "100 Centennial Olympic Park Dr. NW",
+        "phone": "404-380-1040",
+        "website": "www.zucotgallery.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.403167, 33.74732]
+      },
+      "properties": {
+        "name": "Marcia Wood Gallery",
+        "services": "Art gallery and event space",
+        "price": "prices vary by activity date, and time",
+        "address": "263 Walker St.SW",
+        "phone": "404-827-0030",
+        "website": "www.marciawoodgallery.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.391464, 33.762605]
+      },
+      "properties": {
+        "name": "Children's Museum of Atlanta",
+        "services": "Museum and programming for children",
+        "prices": "admission prices range from $12.95-$18.95",
+        "address": "275 Centennial Olympic Park",
+        "phone": "404-695-5437",
+        "website": "www.childrensmuseumatlanta.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.389831, 33.792783]
+      },
+      "properties": {
+        "name": "Center for Puppetry Arts",
+        "services": "Cultural arts center and programming for children",
+        "prices": "prices vary by activity, date, and time",
+        "address": "1404 Spring St. NW",
+        "phone": "404-873-3391",
+        "website": "www.puppet.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.385357, 33.789349]
+      },
+      "properties": {
+        "name": "High Museum of Art",
+        "services": "Art museum located in downtown Atlanta' programming for youth",
+        "prices": "Children 5 and under and free; prices are $14.50 for all other patrons",
+        "address": "1280 Peachtree St. NE",
+        "phone": "404-733-4400",
+        "website": "www.high.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.392984, 33.764213]
+      },
+      "properties": {
+        "name": "Center for Civil and Human Rights",
+        "services": "Museum, event space, and programming for children and adults",
+        "prices": "prices range from $16-$20",
+        "address": "100 Ivan Allen Jr. Blvd. NW",
+        "phone": "678-999-8990",
+        "website": "www.civilandhumanrights.org"
+      }
+    }
+  ]
+}
