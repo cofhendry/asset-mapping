@@ -326,7 +326,7 @@
       },
       "properties": {
         "marker-color": "b2d3be",
-        "marker-symbol": "park-alt",
+        "marker-symbol": "park",
         "name": "Kennedy Park",
         "services": "Greenspace and playground on the Westside of Atlanta",
         "address": "225 James P. Brawley Blvd. NW",
@@ -341,7 +341,7 @@
       },
       "properties": {
         "marker-color": "b2d3be",
-        "marker-symbol": "park-alt",
+        "marker-symbol": "park",
         "name": "Vine City Park",
         "services": "Greenspace and playground on the Westside of Atlanta",
         "address": "Intersection of Magnolia and Walnut St.",
@@ -356,7 +356,7 @@
       },
       "properties": {
         "marker-color": "b2d3be",
-        "marker-symbol": "park-alt",
+        "marker-symbol": "park",
         "name": "Kathryn Johnston Memorial Park",
         "services": "Park and greenspace located on the Westside of Atlanta",
         "address": "870 Proctor St. NW",
@@ -371,7 +371,7 @@
       },
       "properties": {
         "marker-color": "b2d3be",
-        "marker-symbol": "park-alt",
+        "marker-symbol": "park",
         "name": "Lindsay Street Park",
         "services": "Greenspace and playground on the Westside of Atlanta",
         "address": "870 Proctor St. NW",
@@ -386,7 +386,7 @@
       },
       "properties": {
         "marker-color": "b2d3be",
-        "marker-symbol": "park-alt",
+        "marker-symbol": "park",
         "name": "The Home Depot Backyard",
         "services": "Greenspace and event space offering programming for families on the Westside of Atlanta",
         "prices": "prices vary by event",
@@ -402,7 +402,7 @@
       },
       "properties": {
         "marker-color": "b2d3be",
-        "marker-symbol": "park-alt",
+        "marker-symbol": "park",
         "name": "The Atlanta Beltline - Westside Trail",
         "services": "Greenspace and walking trail connected to the 22-mile multi-use trail",
         "address": "Entrance near Washington Park and Lena St.",
